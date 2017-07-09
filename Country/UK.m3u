@@ -1,515 +1,339 @@
 #EXTM3U
-#EXTINF:-1,BBC1 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6986.ts
-#EXTINF:-1,BBC One NI HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13488.ts
-#EXTINF:-1,BBC RB 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13487.ts
-#EXTINF:-1,BBC2 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8363.ts
-#EXTINF:-1,BBC2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6987.ts
-#EXTINF:-1,Channel 4 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13712.ts
-#EXTINF:-1,CHANNEL 4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6995.ts
-#EXTINF:-1,Channel 4 +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13558.ts
-#EXTINF:-1,Channel 5 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6998.ts
-#EXTINF:-1,Channel 5 +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13557.ts
-#EXTINF:-1,Channel 5Star
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9560.ts
-#EXTINF:-1,Sky One
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7365.ts
-#EXTINF:-1,Sky One +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12365.ts
-#EXTINF:-1,Sky Two
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7373.ts
-#EXTINF:-1,Pick
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7054.ts
-#EXTINF:-1,Pick +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13519.ts
-#EXTINF:-1,My5
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13556.ts
-#EXTINF:-1,DAVE
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7072.ts
-#EXTINF:-1,SKY LIVING
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7024.ts
-#EXTINF:-1,BBC3
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7084.ts
-#EXTINF:-1,BBC4 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8364.ts
-#EXTINF:-1,ITV Encore
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13532.ts
-#EXTINF:-1,ITV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6990.ts
-#EXTINF:-1,ITV +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9550.ts
-#EXTINF:-1,ITV1 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8357.ts
-#EXTINF:-1,ITV2 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8356.ts
-#EXTINF:-1,ITV2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6991.ts
-#EXTINF:-1,ITV2 +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13531.ts
-#EXTINF:-1,ITV3 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8354.ts
-#EXTINF:-1,ITV3
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6992.ts
-#EXTINF:-1,ITV4 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8355.ts
-#EXTINF:-1,ITV4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6993.ts
-#EXTINF:-1,ITV4 +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13530.ts
-#EXTINF:-1,Comedy Central
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7033.ts
-#EXTINF:-1,Comedy Central +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13591.ts
-#EXTINF:-1,Comedy Central Extra
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8255.ts
-#EXTINF:-1,Comedy Central Xtra +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13590.ts
-#EXTINF:-1,ALIBI
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7085.ts
-#EXTINF:-1,Alibi +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12364.ts
-#EXTINF:-1,E4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7068.ts
-#EXTINF:-1,S4C
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13514.ts
-#EXTINF:-1,MORE4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7062.ts
-#EXTINF:-1,More4 +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13583.ts
-#EXTINF:-1,CBS REALITY
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7076.ts
-#EXTINF:-1,CBS REALITY +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7075.ts
-#EXTINF:-1,CBS DRAMA
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7077.ts
-#EXTINF:-1,Sony Channel
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13512.ts
-#EXTINF:-1,Sony Channel +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13511.ts
-#EXTINF:-1,Flava
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13587.ts
-#EXTINF:-1,E!
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7069.ts
-#EXTINF:-1,E! +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13549.ts
-#EXTINF:-1,Quest
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7053.ts
-#EXTINF:-1,QUEST +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13518.ts
-#EXTINF:-1,SHOWCASE
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7048.ts
-#EXTINF:-1,3e
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7372.ts
-#EXTINF:-1,TV3 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7001.ts
-#EXTINF:-1,TLC
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7003.ts
-#EXTINF:-1,TLC +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13501.ts
-#EXTINF:-1,TLC +2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13502.ts
-#EXTINF:-1,Drama
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13550.ts
-#EXTINF:-1,TG4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7004.ts
-#EXTINF:-1,RTE One
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7050.ts
-#EXTINF:-1,RTE Two
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7051.ts
-#EXTINF:-1,ITVBE
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6994.ts
-#EXTINF:-1,ITVBe +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13529.ts
-#EXTINF:-1,Community Channel
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13554.ts
-#EXTINF:-1,AMC From BT
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13567.ts
-#EXTINF:-1,ID
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7063.ts
-#EXTINF:-1,ID +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13533.ts
-#EXTINF:-1,Horror Channel
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13585.ts
-#EXTINF:-1,Horror Channel +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13586.ts
-#EXTINF:-1,Fox
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7089.ts
-#EXTINF:-1,Challenge
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13560.ts
-#EXTINF:-1,Challenge +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13559.ts
-#EXTINF:-1,5USA
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7071.ts
-#EXTINF:-1,5USA +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13569.ts
-#EXTINF:-1,5STAR
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7086.ts
-#EXTINF:-1,5STAR +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13568.ts
-#EXTINF:-1,Lifetime
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8256.ts
-#EXTINF:-1,Vintage TV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9552.ts
-#EXTINF:-1,Gold
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12371.ts
-#EXTINF:-1,GOLD +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13543.ts
-#EXTINF:-1,Eden
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12460.ts
-#EXTINF:-1,Eden +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12366.ts
-#EXTINF:-1,True Drama
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13574.ts
-#EXTINF:-1,True Crime +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13498.ts
-#EXTINF:-1,tru TV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13500.ts
-#EXTINF:-1,tru TV 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13499.ts
-#EXTINF:-1,Dmax
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12458.ts
-#EXTINF:-1,Dmax +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12459.ts
-#EXTINF:-1,De Ja Vu
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/11779.ts
-#EXTINF:-1,W +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13494.ts
-#EXTINF:-1,W
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13495.ts
-#EXTINF:-1,Universal Channel
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13572.ts
-#EXTINF:-1,Universal +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13571.ts
-#EXTINF:-1,True Entertainment
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13573.ts
-#EXTINF:-1,Sky News
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9551.ts
-#EXTINF:-1,Real Lives
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13517.ts
-#EXTINF:-1,Tiny Pop
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13576.ts
-#EXTINF:-1,Tiny Pop +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13575.ts
-#EXTINF:-1,The Vault
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13577.ts
-#EXTINF:-1,Spike HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13508.ts
-#EXTINF:-1,RT. News Now
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13515.ts
-#EXTINF:-1,PBS America
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13520.ts
-#EXTINF:-1,London Live
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/2927.ts
-#EXTINF:-1,Made In Cardiff
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/14026.ts
-#EXTINF:-1,=======LIFESTYLE & CULTURE=======
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8250.ts
-#EXTINF:-1,Discovery Shed
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6977.ts
-#EXTINF:-1,Travel Channel
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7002.ts
-#EXTINF:-1,Travel Channel +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/10162.ts
-#EXTINF:-1,Really
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7052.ts
-#EXTINF:-1,Home & Health
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7369.ts
-#EXTINF:-1,Food Network
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8392.ts
-#EXTINF:-1,SKY ARTS
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7046.ts
-#EXTINF:-1,Good Food
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13542.ts
-#EXTINF:-1,Good Food +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13541.ts
-#EXTINF:-1,Food Network +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13547.ts
-#EXTINF:-1,Home&Health
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13536.ts
-#EXTINF:-1,Home
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13537.ts
-#EXTINF:-1,Home +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13535.ts
-#EXTINF:-1,=======MOVIES=======
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8252.ts
-#EXTINF:-1,Sky Cinema Premiere HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7008.ts
-#EXTINF:-1,Sky Cinema Premiere
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7007.ts
-#EXTINF:-1,Sky Movies Comedy
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7012.ts
-#EXTINF:-1,Sky Cinema Action & Adventure
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7013.ts
-#EXTINF:-1,Sky Cinema Family
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7009.ts
-#EXTINF:-1,Sky Cinema Drama & Romance
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7011.ts
-#EXTINF:-1,Sky Movies Sci-Fi Horror HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7015.ts
-#EXTINF:-1,Sky Movies ScFi-Horror
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6975.ts
-#EXTINF:-1,Sky Film 4 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7030.ts
-#EXTINF:-1,Film4 +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13588.ts
-#EXTINF:-1,Sky Cinema Select
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7014.ts
-#EXTINF:-1,Sky Cinema Disney
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7017.ts
-#EXTINF:-1,Sony Movies
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13510.ts
-#EXTINF:-1,Sony Movies +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13509.ts
-#EXTINF:-1,TCM HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7006.ts
-#EXTINF:-1,Starz TV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13578.ts
-#EXTINF:-1,Star Life OK
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13505.ts
-#EXTINF:-1,Star Jalsha
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13506.ts
-#EXTINF:-1,Star GOLD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13507.ts
-#EXTINF:-1,TCM +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13504.ts
-#EXTINF:-1,FILM 4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7066.ts
-#EXTINF:-1,True Movies 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6976.ts
-#EXTINF:-1,True Movies 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7375.ts
-#EXTINF:-1,Movies4Men
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8258.ts
-#EXTINF:-1,Movies 24
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13525.ts
-#EXTINF:-1,Movies4men +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13526.ts
-#EXTINF:-1,MOVIES CRIME & THRILLER
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7019.ts
-#EXTINF:-1,MOVIES COMEDY
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7022.ts
-#EXTINF:-1,Sky Cinema Action & Adventure
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7023.ts
-#EXTINF:-1,Syfy
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7005.ts
-#EXTINF:-1,Syfy +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9556.ts
-#EXTINF:-1,Sky Atlantic HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7045.ts
-#EXTINF:-1,=======SPORT=======
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8244.ts
-#EXTINF:-1,ITV Box Off HD 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/16085.ts
-#EXTINF:-1,SKY SPORTS NEWS HQ HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6981.ts
-#EXTINF:-1,Sky Sports Mix HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13713.ts
-#EXTINF:-1,Sky Sports 1 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8352.ts
-#EXTINF:-1,Sky Sports 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7035.ts
-#EXTINF:-1,Sky Sports 2 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8351.ts
-#EXTINF:-1,Sky Sports 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7036.ts
-#EXTINF:-1,Sky Sports 3 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8350.ts
-#EXTINF:-1,Sky Sports 3
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7037.ts
-#EXTINF:-1,Sky Sports 4 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9549.ts
-#EXTINF:-1,Sky Sports 4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7038.ts
-#EXTINF:-1,Sky Sports 5 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8349.ts
-#EXTINF:-1,Sky Sports 5
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7039.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7987.ts
-#EXTINF:-1,SKY SPORTS  F1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7067.ts
-#EXTINF:-1,EIR Sport 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/17372.ts
-#EXTINF:-1,EIR Sport 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/17373.ts
-#EXTINF:-1,Eurosport 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7031.ts
-#EXTINF:-1,Eurosport 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7374.ts
-#EXTINF:-1,Premier Sports
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/10163.ts
-#EXTINF:-1,Motors TV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8257.ts
-#EXTINF:-1,Horse & Country
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13534.ts
-#EXTINF:-1,AT THE RACES
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6984.ts
-#EXTINF:-1,Racing UK
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7376.ts
-#EXTINF:-1,Bike
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13599.ts
-#EXTINF:-1,BT Sport Mosaic 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9149.ts
-#EXTINF:-1,BT SPORTS MOSAIC 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12531.ts
-#EXTINF:-1,BT Sport 1 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7041.ts
-#EXTINF:-1,BT Sport 2 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7042.ts
-#EXTINF:-1,BT Sport ESPN
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8358.ts
-#EXTINF:-1,BT Sport 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8361.ts
-#EXTINF:-1,BT Sport Europe/3 HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8360.ts
-#EXTINF:-1,BT SPORTS EUROPE
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7081.ts
-#EXTINF:-1,BT Sports Extra 1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7370.ts
-#EXTINF:-1,BT Sport Extra 2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13565.ts
-#EXTINF:-1,BT Sport Extra 3
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13564.ts
-#EXTINF:-1,BT Sport Extra 4
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13563.ts
-#EXTINF:-1,BT Sport Extra 5
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13562.ts
-#EXTINF:-1,BT Sport Extra 6
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13561.ts
-#EXTINF:-1,BET
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9148.ts
-#EXTINF:-1,Setanta HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8241.ts
-#EXTINF:-1,BOX NATION
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7082.ts
-#EXTINF:-1,Sky BoxOff (PPV Events Only)
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7979.ts
-#EXTINF:-1,MUTV HD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7043.ts
-#EXTINF:-1,Chelsea TV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8359.ts
-#EXTINF:-1,Liverpool LFCTV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9553.ts
-#EXTINF:-1,Celtic FC TV (Live for Matches )
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12457.ts
-#EXTINF:-1,Sky Net Sports 1 UK
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/14081.ts
-#EXTINF:-1,Sky Net Sports 2 UK
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/14082.ts
-#EXTINF:-1,Sky Net Sports 3 UK
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/14083.ts
-#EXTINF:-1,Sky Net Sports 4 UK
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/14084.ts
-#EXTINF:-1,Sky Net Sports 5 UK
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/14085.ts
-#EXTINF:-1,=======NEWS=======
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8246.ts
-#EXTINF:-1,BBC News
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7371.ts
-#EXTINF:-1,=======DOCUMENTARIES=======
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8247.ts
-#EXTINF:-1,Discovery Channel
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7026.ts
-#EXTINF:-1,Discovery Channel +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/10161.ts
-#EXTINF:-1,Discovery Turbo
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6979.ts
-#EXTINF:-1,Discovery Science
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7028.ts
-#EXTINF:-1,Discovery Science +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13551.ts
-#EXTINF:-1,Animal Planet
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7047.ts
-#EXTINF:-1,Animal Planet +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13566.ts
-#EXTINF:-1,Nat Geo
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7367.ts
-#EXTINF:-1,Nat Geo Wild
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7025.ts
-#EXTINF:-1,Discovery History
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7029.ts
-#EXTINF:-1,Discovery History +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13552.ts
-#EXTINF:-1,YESTERDAY
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/6999.ts
-#EXTINF:-1,Yesterday +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/12375.ts
-#EXTINF:-1,Investigation Discovery
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7368.ts
-#EXTINF:-1,Crime & Investigation
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7074.ts
-#EXTINF:-1,H2
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13540.ts
-#EXTINF:-1,History
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13539.ts
-#EXTINF:-1,GEO TV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13544.ts
-#EXTINF:-1,=======CHILDREN'S=======
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8251.ts
-#EXTINF:-1,Baby TV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/11778.ts
-#EXTINF:-1,Kix
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/11469.ts
-#EXTINF:-1,Kix +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13584.ts
-#EXTINF:-1,Cartoon Network
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7034.ts
-#EXTINF:-1,NickJr Too
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7543.ts
-#EXTINF:-1,Nicktoons
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7055.ts
-#EXTINF:-1,Disney Junior
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7542.ts
-#EXTINF:-1,Disney Channel
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7032.ts
-#EXTINF:-1,Nickelodeon
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7366.ts
-#EXTINF:-1,DISNEY XD
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7070.ts
-#EXTINF:-1,CBEEBIES
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7079.ts
-#EXTINF:-1,CBBC
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7080.ts
-#EXTINF:-1,Boomerang
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13598.ts
-#EXTINF:-1,=======MUSIC=======
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8253.ts
-#EXTINF:-1,MTV Music
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13582.ts
-#EXTINF:-1,MTV 90s
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13485.ts
-#EXTINF:-1,MTV
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7061.ts
-#EXTINF:-1,MTV +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13523.ts
-#EXTINF:-1,MTV Base
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7060.ts
-#EXTINF:-1,MTV Hits
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7057.ts
-#EXTINF:-1,MTV Dance
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7058.ts
-#EXTINF:-1,MTV Rocks
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7056.ts
-#EXTINF:-1,MTV Classic
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7059.ts
-#EXTINF:-1,VH1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7000.ts
-#EXTINF:-1,VIVA
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/8259.ts
-#EXTINF:-1,Scuzz
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13579.ts
-#EXTINF:-1,4Music
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13570.ts
-#EXTINF:-1,POP +1
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13580.ts
-#EXTINF:-1,POP
-http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/13581.ts
+#EXTINF:0,ALIBI
+http://109.236.80.19:8000/live/imranitel/rashid/627.ts
+#EXTINF:0,BBC 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/175.ts
+#EXTINF:0,BBC 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/552.ts
+#EXTINF:0,BBC 3HD
+http://109.236.80.19:8000/live/imranitel/rashid/551.ts
+#EXTINF:0,BBC 4HD
+http://109.236.80.19:8000/live/imranitel/rashid/550.ts
+#EXTINF:0,BBC ALBA
+http://109.236.80.19:8000/live/imranitel/rashid/173.ts
+#EXTINF:0,CBS Action
+http://109.236.80.19:8000/live/imranitel/rashid/548.ts
+#EXTINF:0,CBS REALITY
+http://109.236.80.19:8000/live/imranitel/rashid/546.ts
+#EXTINF:0,CHALLENGE
+http://109.236.80.19:8000/live/imranitel/rashid/1334.ts
+#EXTINF:0,CHANNEL 5 UK
+http://109.236.80.19:8000/live/imranitel/rashid/5915.ts
+#EXTINF:0,CHANNEL 5HD
+http://109.236.80.19:8000/live/imranitel/rashid/545.ts
+#EXTINF:0,Channel 4
+http://109.236.80.19:8000/live/imranitel/rashid/1037.ts
+#EXTINF:0,CHANNEL 4HD UK
+http://109.236.80.19:8000/live/imranitel/rashid/5916.ts
+#EXTINF:0,Bloomberg
+http://109.236.80.19:8000/live/imranitel/rashid/635.ts
+#EXTINF:0,Comedy Central Extra
+http://109.236.80.19:8000/live/imranitel/rashid/5909.ts
+#EXTINF:0,Comedy Central
+http://109.236.80.19:8000/live/imranitel/rashid/1033.ts
+#EXTINF:0,5 USA
+http://109.236.80.19:8000/live/imranitel/rashid/1061.ts
+#EXTINF:0,Dave
+http://109.236.80.19:8000/live/imranitel/rashid/910.ts
+#EXTINF:0,DRAMA UK
+http://109.236.80.19:8000/live/imranitel/rashid/1336.ts
+#EXTINF:0,CBS DRAMA
+http://109.236.80.19:8000/live/imranitel/rashid/549.ts
+#EXTINF:0,YESTERDAY1
+http://109.236.80.19:8000/live/imranitel/rashid/541.ts
+#EXTINF:0,Watch
+http://109.236.80.19:8000/live/imranitel/rashid/840.ts
+#EXTINF:0,Tru TV +1
+http://109.236.80.19:8000/live/imranitel/rashid/1323.ts
+#EXTINF:0,FOX
+http://109.236.80.19:8000/live/imranitel/rashid/1364.ts
+#EXTINF:0,GOLD
+http://109.236.80.19:8000/live/imranitel/rashid/1349.ts
+#EXTINF:0,ITV 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/558.ts
+#EXTINF:0,ITV 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/557.ts
+#EXTINF:0,ITV 3
+http://109.236.80.19:8000/live/imranitel/rashid/556.ts
+#EXTINF:0,ITV 4
+http://109.236.80.19:8000/live/imranitel/rashid/555.ts
+#EXTINF:0,ITV BE HD
+http://109.236.80.19:8000/live/imranitel/rashid/554.ts
+#EXTINF:0,ITV ENCORE
+http://109.236.80.19:8000/live/imranitel/rashid/1297.ts
+#EXTINF:0,PICK TV
+http://109.236.80.19:8000/live/imranitel/rashid/1340.ts
+#EXTINF:0,SKY 1
+http://109.236.80.19:8000/live/imranitel/rashid/626.ts
+#EXTINF:0,Sky 2
+http://109.236.80.19:8000/live/imranitel/rashid/827.ts
+#EXTINF:0,Spike
+http://109.236.80.19:8000/live/imranitel/rashid/1327.ts
+#EXTINF:0,Syfy
+http://109.236.80.19:8000/live/imranitel/rashid/838.ts
+#EXTINF:0,TCM
+http://109.236.80.19:8000/live/imranitel/rashid/1342.ts
+#EXTINF:0,TCM-1 UK
+http://109.236.80.19:8000/live/imranitel/rashid/5912.ts
+#EXTINF:0,True Drama
+http://109.236.80.19:8000/live/imranitel/rashid/1295.ts
+#EXTINF:0,True Entertainment
+http://109.236.80.19:8000/live/imranitel/rashid/1294.ts
+#EXTINF:0,YOUR TV
+http://109.236.80.19:8000/live/imranitel/rashid/1441.ts
+#EXTINF:0,Eden
+http://109.236.80.19:8000/live/imranitel/rashid/1322.ts
+#EXTINF:0,E!
+http://109.236.80.19:8000/live/imranitel/rashid/628.ts
+#EXTINF:0,4 SEVEN
+http://109.236.80.19:8000/live/imranitel/rashid/1332.ts
+#EXTINF:0,5STAR
+http://109.236.80.19:8000/live/imranitel/rashid/543.ts
+#EXTINF:0,5STAR+1
+http://109.236.80.19:8000/live/imranitel/rashid/4177.ts
+#EXTINF:0,ITV
+http://109.236.80.19:8000/live/imranitel/rashid/4848.ts
+#EXTINF:0,ITV HD
+http://109.236.80.19:8000/live/imranitel/rashid/4846.ts
+#EXTINF:0,ITV+1
+http://109.236.80.19:8000/live/imranitel/rashid/4847.ts
+#EXTINF:0,ITV 2
+http://109.236.80.19:8000/live/imranitel/rashid/4851.ts
+#EXTINF:0,ITV 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/4849.ts
+#EXTINF:0,ITV 2+1
+http://109.236.80.19:8000/live/imranitel/rashid/4850.ts
+#EXTINF:0,ITV 3
+http://109.236.80.19:8000/live/imranitel/rashid/4854.ts
+#EXTINF:0,ITV 3+1
+http://109.236.80.19:8000/live/imranitel/rashid/4853.ts
+#EXTINF:0,ITV 3HD
+http://109.236.80.19:8000/live/imranitel/rashid/4852.ts
+#EXTINF:0,ITV 4
+http://109.236.80.19:8000/live/imranitel/rashid/4857.ts
+#EXTINF:0,ITV 4HD
+http://109.236.80.19:8000/live/imranitel/rashid/4855.ts
+#EXTINF:0,ITV 4+1
+http://109.236.80.19:8000/live/imranitel/rashid/4856.ts
+#EXTINF:0,ITV BE
+http://109.236.80.19:8000/live/imranitel/rashid/4858.ts
+#EXTINF:0,ITV BE+1
+http://109.236.80.19:8000/live/imranitel/rashid/4859.ts
+#EXTINF:0,ITV ENCORE HD
+http://109.236.80.19:8000/live/imranitel/rashid/4860.ts
+#EXTINF:0,ITV ENCORE+1
+http://109.236.80.19:8000/live/imranitel/rashid/4861.ts
+#EXTINF:0,RTE ONE HD
+http://109.236.80.19:8000/live/imranitel/rashid/8698.ts
+#EXTINF:0,RTE TWO HD
+http://109.236.80.19:8000/live/imranitel/rashid/8699.ts
+#EXTINF:0,YOUR TV
+http://109.236.80.19:8000/live/imranitel/rashid/2594.ts
+#EXTINF:0,SKY 2
+http://109.236.80.19:8000/live/imranitel/rashid/2574.ts
+#EXTINF:0,TRU TV
+http://109.236.80.19:8000/live/imranitel/rashid/2591.ts
+#EXTINF:0,Tru tV +1
+http://109.236.80.19:8000/live/imranitel/rashid/2592.ts
+#EXTINF:0,UTV HD
+http://109.236.80.19:8000/live/imranitel/rashid/6333.ts
+#EXTINF:0,UTV
+http://109.236.80.19:8000/live/imranitel/rashid/6334.ts
+#EXTINF:0,===>[UK] MOVIES<===
+http://109.236.80.19:8000/live/imranitel/rashid/8562.ts
+#EXTINF:0,SKY ACTION MOVIES HD
+http://109.236.80.19:8000/live/imranitel/rashid/5256.ts
+#EXTINF:0,SKY CINEMA HITS HD
+http://109.236.80.19:8000/live/imranitel/rashid/5249.ts
+#EXTINF:0,SKY COMEDY MOVIES HD
+http://109.236.80.19:8000/live/imranitel/rashid/5248.ts
+#EXTINF:0,SKY DISNEY MOVIES HD
+http://109.236.80.19:8000/live/imranitel/rashid/5254.ts
+#EXTINF:0,SKY DRAMA & ROMANCE HD
+http://109.236.80.19:8000/live/imranitel/rashid/5247.ts
+#EXTINF:0,SKY FAMILY MOVIES HD
+http://109.236.80.19:8000/live/imranitel/rashid/5253.ts
+#EXTINF:0,SKY MOVIES THRILLER HD
+http://109.236.80.19:8000/live/imranitel/rashid/5255.ts
+#EXTINF:0,SKY PREMIER MOVIES HD
+http://109.236.80.19:8000/live/imranitel/rashid/5252.ts
+#EXTINF:0,SKY SCI-FI & HORROR HD
+http://109.236.80.19:8000/live/imranitel/rashid/5251.ts
+#EXTINF:0,SKY SELECT MOVIES HD
+http://109.236.80.19:8000/live/imranitel/rashid/5250.ts
+#EXTINF:0,SKY LIVING UK
+http://109.236.80.19:8000/live/imranitel/rashid/8702.ts
+#EXTINF:0,SKY ACTION MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/2549.ts
+#EXTINF:0,SKY ATLANTIC
+http://109.236.80.19:8000/live/imranitel/rashid/2547.ts
+#EXTINF:0,SKY BOX OFFICE
+http://109.236.80.19:8000/live/imranitel/rashid/2576.ts
+#EXTINF:0,SKY COMEDY MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/2550.ts
+#EXTINF:0,SKY DRAMA BOX MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/2553.ts
+#EXTINF:0,SKY FAMILY MOVIE
+http://109.236.80.19:8000/live/imranitel/rashid/2554.ts
+#EXTINF:0,SKY MOVIE DISNEY
+http://109.236.80.19:8000/live/imranitel/rashid/2552.ts
+#EXTINF:0,SKY SELECT MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/2560.ts
+#EXTINF:0,SKY PREMIER MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/2557.ts
+#EXTINF:0,SKY PREMIER+1
+http://109.236.80.19:8000/live/imranitel/rashid/2558.ts
+#EXTINF:0,SKY SCI-FI HORROR
+http://109.236.80.19:8000/live/imranitel/rashid/2559.ts
+#EXTINF:0,SKY THRILLER MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/2551.ts
+#EXTINF:0,SONY MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/2598.ts
+#EXTINF:0,SONY MOVIES+1
+http://109.236.80.19:8000/live/imranitel/rashid/2599.ts
+#EXTINF:0,UNIVERSAL
+http://109.236.80.19:8000/live/imranitel/rashid/6336.ts
+#EXTINF:0,UNIVERSAL+1
+http://109.236.80.19:8000/live/imranitel/rashid/6335.ts
+#EXTINF:0,Horror Channel
+http://109.236.80.19:8000/live/imranitel/rashid/1039.ts
+#EXTINF:0,True Movies 2
+http://109.236.80.19:8000/live/imranitel/rashid/650.ts
+#EXTINF:0,True Movies 1
+http://109.236.80.19:8000/live/imranitel/rashid/649.ts
+#EXTINF:0,SONY MOVIES
+http://109.236.80.19:8000/live/imranitel/rashid/1362.ts
+#EXTINF:0,Sky Action
+http://109.236.80.19:8000/live/imranitel/rashid/164.ts
+#EXTINF:0,Sky Family
+http://109.236.80.19:8000/live/imranitel/rashid/162.ts
+#EXTINF:0,Sky Disney
+http://109.236.80.19:8000/live/imranitel/rashid/163.ts
+#EXTINF:0,Sky Select
+http://109.236.80.19:8000/live/imranitel/rashid/553.ts
+#EXTINF:0,Sky Premiere Movies
+http://109.236.80.19:8000/live/imranitel/rashid/835.ts
+#EXTINF:0,Sky Movies Premiere  1
+http://109.236.80.19:8000/live/imranitel/rashid/1296.ts
+#EXTINF:0,Sky MoviesGreats HD
+http://109.236.80.19:8000/live/imranitel/rashid/836.ts
+#EXTINF:0,Sky Movies Sci-Fi
+http://109.236.80.19:8000/live/imranitel/rashid/834.ts
+#EXTINF:0,Sky Movies Drama
+http://109.236.80.19:8000/live/imranitel/rashid/832.ts
+#EXTINF:0,Sky Movies Comedy
+http://109.236.80.19:8000/live/imranitel/rashid/833.ts
+#EXTINF:0,Sky Thrill
+http://109.236.80.19:8000/live/imranitel/rashid/167.ts
+#EXTINF:0,Sky Showcase
+http://109.236.80.19:8000/live/imranitel/rashid/161.ts
+#EXTINF:0,Sky Box Office
+http://109.236.80.19:8000/live/imranitel/rashid/1379.ts
+#EXTINF:0,MOVIES 4 MEN
+http://109.236.80.19:8000/live/imranitel/rashid/1339.ts
+#EXTINF:0,===>[UK] SPORTS<===
+http://109.236.80.19:8000/live/imranitel/rashid/8563.ts
+#EXTINF:0,BT EUROPE HD
+http://109.236.80.19:8000/live/imranitel/rashid/5262.ts
+#EXTINF:0,BT SPORTS 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/5264.ts
+#EXTINF:0,BT SPORTS 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/5263.ts
+#EXTINF:0,EURO SPORTS 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/5258.ts
+#EXTINF:0,EURO SPORTS 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/5257.ts
+#EXTINF:0,SKY SPORTS 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/5269.ts
+#EXTINF:0,SKY SPORTS 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/5268.ts
+#EXTINF:0,SKY SPORTS 3HD
+http://109.236.80.19:8000/live/imranitel/rashid/5267.ts
+#EXTINF:0,SKY SPORTS 4HD
+http://109.236.80.19:8000/live/imranitel/rashid/5266.ts
+#EXTINF:0,SKY SPORTS 5HD
+http://109.236.80.19:8000/live/imranitel/rashid/5265.ts
+#EXTINF:0,SKY F1 HD
+http://109.236.80.19:8000/live/imranitel/rashid/5261.ts
+#EXTINF:0,SKY SPORTS MIX HD
+http://109.236.80.19:8000/live/imranitel/rashid/5259.ts
+#EXTINF:0,SKY SPORTS NEWS HD
+http://109.236.80.19:8000/live/imranitel/rashid/5260.ts
+#EXTINF:0,At the Races
+http://109.236.80.19:8000/live/imranitel/rashid/647.ts
+#EXTINF:0,Box Nation
+http://109.236.80.19:8000/live/imranitel/rashid/646.ts
+#EXTINF:0,BT Sports ESPN
+http://109.236.80.19:8000/live/imranitel/rashid/434.ts
+#EXTINF:0,BT Europe HD
+http://109.236.80.19:8000/live/imranitel/rashid/433.ts
+#EXTINF:0,BT Sports 1
+http://109.236.80.19:8000/live/imranitel/rashid/174.ts
+#EXTINF:0,BT Sports 2
+http://109.236.80.19:8000/live/imranitel/rashid/432.ts
+#EXTINF:0,BT SPORTS 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/1228.ts
+#EXTINF:0,BT SPORTS 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/1233.ts
+#EXTINF:0,BT SPORTS 3HD
+http://109.236.80.19:8000/live/imranitel/rashid/783.ts
+#EXTINF:0,Chelsea
+http://109.236.80.19:8000/live/imranitel/rashid/435.ts
+#EXTINF:0,Eurosport
+http://109.236.80.19:8000/live/imranitel/rashid/1062.ts
+#EXTINF:0,EuroSports2
+http://109.236.80.19:8000/live/imranitel/rashid/1368.ts
+#EXTINF:0,Sky Sports 1
+http://109.236.80.19:8000/live/imranitel/rashid/172.ts
+#EXTINF:0,Sky Sports 1HD
+http://109.236.80.19:8000/live/imranitel/rashid/1267.ts
+#EXTINF:0,Sky Sports 2
+http://109.236.80.19:8000/live/imranitel/rashid/171.ts
+#EXTINF:0,Sky Sports 2HD
+http://109.236.80.19:8000/live/imranitel/rashid/1268.ts
+#EXTINF:0,Sky Sports 3
+http://109.236.80.19:8000/live/imranitel/rashid/170.ts
+#EXTINF:0,Sky Sports 3HD
+http://109.236.80.19:8000/live/imranitel/rashid/1269.ts
+#EXTINF:0,Sky Sports 4
+http://109.236.80.19:8000/live/imranitel/rashid/169.ts
+#EXTINF:0,Sky Sports 4HD
+http://109.236.80.19:8000/live/imranitel/rashid/1270.ts
+#EXTINF:0,Sky Sports 5
+http://109.236.80.19:8000/live/imranitel/rashid/168.ts
+#EXTINF:0,Sky Sports 5HD
+http://109.236.80.19:8000/live/imranitel/rashid/1271.ts
+#EXTINF:0,Sky Sports F1
+http://109.236.80.19:8000/live/imranitel/rashid/542.ts
+#EXTINF:0,Sky Sport News HQ
+http://109.236.80.19:8000/live/imranitel/rashid/826.ts
+#EXTINF:0,Setanta Sport Ireland
+http://109.236.80.19:8000/live/imranitel/rashid/1040.ts
+#EXTINF:0,Racing
+http://109.236.80.19:8000/live/imranitel/rashid/648.ts
+#EXTINF:0,Premier Sports HD
+http://109.236.80.19:8000/live/imranitel/rashid/1453.ts
+#EXTINF:0,EIR Sports 1
+http://109.236.80.19:8000/live/imranitel/rashid/462.ts
+#EXTINF:0,LFC TV
+http://109.236.80.19:8000/live/imranitel/rashid/1393.ts
+#EXTINF:0,MUTV FC
+http://109.236.80.19:8000/live/imranitel/rashid/547.ts
+#EXTINF:0,AT THE RACES
+http://109.236.80.19:8000/live/imranitel/rashid/3000.ts
+#EXTINF:0,BT SPORTS 1
+http://109.236.80.19:8000/live/imranitel/rashid/2577.ts
+#EXTINF:0,BT SPORTS 3
+http://109.236.80.19:8000/live/imranitel/rashid/2579.ts
+#EXTINF:0,BT SPORTS ESPN
+http://109.236.80.19:8000/live/imranitel/rashid/2588.ts
+#EXTINF:0,BT SPORTS 2
+http://109.236.80.19:8000/live/imranitel/rashid/2578.ts
+#EXTINF:0,SKY SPORTS NEWS HQ
+http://109.236.80.19:8000/live/imranitel/rashid/2564.ts
+#EXTINF:0,PREMIER SPORTS
+http://109.236.80.19:8000/live/imranitel/rashid/2601.ts
+#EXTINF:0,PREMIER SPORTS HD
+http://109.236.80.19:8000/live/imranitel/rashid/2602.ts
+#EXTINF:0,RACING UK
+http://109.236.80.19:8000/live/imranitel/rashid/2590.ts
