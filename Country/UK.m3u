@@ -1,339 +1,515 @@
 #EXTM3U
-#EXTINF:0,ALIBI
-http://109.236.80.19:8000/live/imranitel/rashid/627.ts
-#EXTINF:0,BBC 1HD
-http://109.236.80.19:8000/live/imranitel/rashid/175.ts
-#EXTINF:0,BBC 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/552.ts
-#EXTINF:0,BBC 3HD
-http://109.236.80.19:8000/live/imranitel/rashid/551.ts
-#EXTINF:0,BBC 4HD
-http://109.236.80.19:8000/live/imranitel/rashid/550.ts
-#EXTINF:0,BBC ALBA
-http://109.236.80.19:8000/live/imranitel/rashid/173.ts
-#EXTINF:0,CBS Action
-http://109.236.80.19:8000/live/imranitel/rashid/548.ts
-#EXTINF:0,CBS REALITY
-http://109.236.80.19:8000/live/imranitel/rashid/546.ts
-#EXTINF:0,CHALLENGE
-http://109.236.80.19:8000/live/imranitel/rashid/1334.ts
-#EXTINF:0,CHANNEL 5 UK
-http://109.236.80.19:8000/live/imranitel/rashid/5915.ts
-#EXTINF:0,CHANNEL 5HD
-http://109.236.80.19:8000/live/imranitel/rashid/545.ts
-#EXTINF:0,Channel 4
-http://109.236.80.19:8000/live/imranitel/rashid/1037.ts
-#EXTINF:0,CHANNEL 4HD UK
-http://109.236.80.19:8000/live/imranitel/rashid/5916.ts
-#EXTINF:0,Bloomberg
-http://109.236.80.19:8000/live/imranitel/rashid/635.ts
-#EXTINF:0,Comedy Central Extra
-http://109.236.80.19:8000/live/imranitel/rashid/5909.ts
-#EXTINF:0,Comedy Central
-http://109.236.80.19:8000/live/imranitel/rashid/1033.ts
-#EXTINF:0,5 USA
-http://109.236.80.19:8000/live/imranitel/rashid/1061.ts
-#EXTINF:0,Dave
-http://109.236.80.19:8000/live/imranitel/rashid/910.ts
-#EXTINF:0,DRAMA UK
-http://109.236.80.19:8000/live/imranitel/rashid/1336.ts
-#EXTINF:0,CBS DRAMA
-http://109.236.80.19:8000/live/imranitel/rashid/549.ts
-#EXTINF:0,YESTERDAY1
-http://109.236.80.19:8000/live/imranitel/rashid/541.ts
-#EXTINF:0,Watch
-http://109.236.80.19:8000/live/imranitel/rashid/840.ts
-#EXTINF:0,Tru TV +1
-http://109.236.80.19:8000/live/imranitel/rashid/1323.ts
-#EXTINF:0,FOX
-http://109.236.80.19:8000/live/imranitel/rashid/1364.ts
-#EXTINF:0,GOLD
-http://109.236.80.19:8000/live/imranitel/rashid/1349.ts
-#EXTINF:0,ITV 1HD
-http://109.236.80.19:8000/live/imranitel/rashid/558.ts
-#EXTINF:0,ITV 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/557.ts
-#EXTINF:0,ITV 3
-http://109.236.80.19:8000/live/imranitel/rashid/556.ts
-#EXTINF:0,ITV 4
-http://109.236.80.19:8000/live/imranitel/rashid/555.ts
-#EXTINF:0,ITV BE HD
-http://109.236.80.19:8000/live/imranitel/rashid/554.ts
-#EXTINF:0,ITV ENCORE
-http://109.236.80.19:8000/live/imranitel/rashid/1297.ts
-#EXTINF:0,PICK TV
-http://109.236.80.19:8000/live/imranitel/rashid/1340.ts
-#EXTINF:0,SKY 1
-http://109.236.80.19:8000/live/imranitel/rashid/626.ts
-#EXTINF:0,Sky 2
-http://109.236.80.19:8000/live/imranitel/rashid/827.ts
-#EXTINF:0,Spike
-http://109.236.80.19:8000/live/imranitel/rashid/1327.ts
-#EXTINF:0,Syfy
-http://109.236.80.19:8000/live/imranitel/rashid/838.ts
-#EXTINF:0,TCM
-http://109.236.80.19:8000/live/imranitel/rashid/1342.ts
-#EXTINF:0,TCM-1 UK
-http://109.236.80.19:8000/live/imranitel/rashid/5912.ts
-#EXTINF:0,True Drama
-http://109.236.80.19:8000/live/imranitel/rashid/1295.ts
-#EXTINF:0,True Entertainment
-http://109.236.80.19:8000/live/imranitel/rashid/1294.ts
-#EXTINF:0,YOUR TV
-http://109.236.80.19:8000/live/imranitel/rashid/1441.ts
-#EXTINF:0,Eden
-http://109.236.80.19:8000/live/imranitel/rashid/1322.ts
-#EXTINF:0,E!
-http://109.236.80.19:8000/live/imranitel/rashid/628.ts
-#EXTINF:0,4 SEVEN
-http://109.236.80.19:8000/live/imranitel/rashid/1332.ts
-#EXTINF:0,5STAR
-http://109.236.80.19:8000/live/imranitel/rashid/543.ts
-#EXTINF:0,5STAR+1
-http://109.236.80.19:8000/live/imranitel/rashid/4177.ts
-#EXTINF:0,ITV
-http://109.236.80.19:8000/live/imranitel/rashid/4848.ts
-#EXTINF:0,ITV HD
-http://109.236.80.19:8000/live/imranitel/rashid/4846.ts
-#EXTINF:0,ITV+1
-http://109.236.80.19:8000/live/imranitel/rashid/4847.ts
-#EXTINF:0,ITV 2
-http://109.236.80.19:8000/live/imranitel/rashid/4851.ts
-#EXTINF:0,ITV 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/4849.ts
-#EXTINF:0,ITV 2+1
-http://109.236.80.19:8000/live/imranitel/rashid/4850.ts
-#EXTINF:0,ITV 3
-http://109.236.80.19:8000/live/imranitel/rashid/4854.ts
-#EXTINF:0,ITV 3+1
-http://109.236.80.19:8000/live/imranitel/rashid/4853.ts
-#EXTINF:0,ITV 3HD
-http://109.236.80.19:8000/live/imranitel/rashid/4852.ts
-#EXTINF:0,ITV 4
-http://109.236.80.19:8000/live/imranitel/rashid/4857.ts
-#EXTINF:0,ITV 4HD
-http://109.236.80.19:8000/live/imranitel/rashid/4855.ts
-#EXTINF:0,ITV 4+1
-http://109.236.80.19:8000/live/imranitel/rashid/4856.ts
-#EXTINF:0,ITV BE
-http://109.236.80.19:8000/live/imranitel/rashid/4858.ts
-#EXTINF:0,ITV BE+1
-http://109.236.80.19:8000/live/imranitel/rashid/4859.ts
-#EXTINF:0,ITV ENCORE HD
-http://109.236.80.19:8000/live/imranitel/rashid/4860.ts
-#EXTINF:0,ITV ENCORE+1
-http://109.236.80.19:8000/live/imranitel/rashid/4861.ts
-#EXTINF:0,RTE ONE HD
-http://109.236.80.19:8000/live/imranitel/rashid/8698.ts
-#EXTINF:0,RTE TWO HD
-http://109.236.80.19:8000/live/imranitel/rashid/8699.ts
-#EXTINF:0,YOUR TV
-http://109.236.80.19:8000/live/imranitel/rashid/2594.ts
-#EXTINF:0,SKY 2
-http://109.236.80.19:8000/live/imranitel/rashid/2574.ts
-#EXTINF:0,TRU TV
-http://109.236.80.19:8000/live/imranitel/rashid/2591.ts
-#EXTINF:0,Tru tV +1
-http://109.236.80.19:8000/live/imranitel/rashid/2592.ts
-#EXTINF:0,UTV HD
-http://109.236.80.19:8000/live/imranitel/rashid/6333.ts
-#EXTINF:0,UTV
-http://109.236.80.19:8000/live/imranitel/rashid/6334.ts
-#EXTINF:0,===>[UK] MOVIES<===
-http://109.236.80.19:8000/live/imranitel/rashid/8562.ts
-#EXTINF:0,SKY ACTION MOVIES HD
-http://109.236.80.19:8000/live/imranitel/rashid/5256.ts
-#EXTINF:0,SKY CINEMA HITS HD
-http://109.236.80.19:8000/live/imranitel/rashid/5249.ts
-#EXTINF:0,SKY COMEDY MOVIES HD
-http://109.236.80.19:8000/live/imranitel/rashid/5248.ts
-#EXTINF:0,SKY DISNEY MOVIES HD
-http://109.236.80.19:8000/live/imranitel/rashid/5254.ts
-#EXTINF:0,SKY DRAMA & ROMANCE HD
-http://109.236.80.19:8000/live/imranitel/rashid/5247.ts
-#EXTINF:0,SKY FAMILY MOVIES HD
-http://109.236.80.19:8000/live/imranitel/rashid/5253.ts
-#EXTINF:0,SKY MOVIES THRILLER HD
-http://109.236.80.19:8000/live/imranitel/rashid/5255.ts
-#EXTINF:0,SKY PREMIER MOVIES HD
-http://109.236.80.19:8000/live/imranitel/rashid/5252.ts
-#EXTINF:0,SKY SCI-FI & HORROR HD
-http://109.236.80.19:8000/live/imranitel/rashid/5251.ts
-#EXTINF:0,SKY SELECT MOVIES HD
-http://109.236.80.19:8000/live/imranitel/rashid/5250.ts
-#EXTINF:0,SKY LIVING UK
-http://109.236.80.19:8000/live/imranitel/rashid/8702.ts
-#EXTINF:0,SKY ACTION MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/2549.ts
-#EXTINF:0,SKY ATLANTIC
-http://109.236.80.19:8000/live/imranitel/rashid/2547.ts
-#EXTINF:0,SKY BOX OFFICE
-http://109.236.80.19:8000/live/imranitel/rashid/2576.ts
-#EXTINF:0,SKY COMEDY MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/2550.ts
-#EXTINF:0,SKY DRAMA BOX MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/2553.ts
-#EXTINF:0,SKY FAMILY MOVIE
-http://109.236.80.19:8000/live/imranitel/rashid/2554.ts
-#EXTINF:0,SKY MOVIE DISNEY
-http://109.236.80.19:8000/live/imranitel/rashid/2552.ts
-#EXTINF:0,SKY SELECT MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/2560.ts
-#EXTINF:0,SKY PREMIER MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/2557.ts
-#EXTINF:0,SKY PREMIER+1
-http://109.236.80.19:8000/live/imranitel/rashid/2558.ts
-#EXTINF:0,SKY SCI-FI HORROR
-http://109.236.80.19:8000/live/imranitel/rashid/2559.ts
-#EXTINF:0,SKY THRILLER MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/2551.ts
-#EXTINF:0,SONY MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/2598.ts
-#EXTINF:0,SONY MOVIES+1
-http://109.236.80.19:8000/live/imranitel/rashid/2599.ts
-#EXTINF:0,UNIVERSAL
-http://109.236.80.19:8000/live/imranitel/rashid/6336.ts
-#EXTINF:0,UNIVERSAL+1
-http://109.236.80.19:8000/live/imranitel/rashid/6335.ts
-#EXTINF:0,Horror Channel
-http://109.236.80.19:8000/live/imranitel/rashid/1039.ts
-#EXTINF:0,True Movies 2
-http://109.236.80.19:8000/live/imranitel/rashid/650.ts
-#EXTINF:0,True Movies 1
-http://109.236.80.19:8000/live/imranitel/rashid/649.ts
-#EXTINF:0,SONY MOVIES
-http://109.236.80.19:8000/live/imranitel/rashid/1362.ts
-#EXTINF:0,Sky Action
-http://109.236.80.19:8000/live/imranitel/rashid/164.ts
-#EXTINF:0,Sky Family
-http://109.236.80.19:8000/live/imranitel/rashid/162.ts
-#EXTINF:0,Sky Disney
-http://109.236.80.19:8000/live/imranitel/rashid/163.ts
-#EXTINF:0,Sky Select
-http://109.236.80.19:8000/live/imranitel/rashid/553.ts
-#EXTINF:0,Sky Premiere Movies
-http://109.236.80.19:8000/live/imranitel/rashid/835.ts
-#EXTINF:0,Sky Movies Premiere  1
-http://109.236.80.19:8000/live/imranitel/rashid/1296.ts
-#EXTINF:0,Sky MoviesGreats HD
-http://109.236.80.19:8000/live/imranitel/rashid/836.ts
-#EXTINF:0,Sky Movies Sci-Fi
-http://109.236.80.19:8000/live/imranitel/rashid/834.ts
-#EXTINF:0,Sky Movies Drama
-http://109.236.80.19:8000/live/imranitel/rashid/832.ts
-#EXTINF:0,Sky Movies Comedy
-http://109.236.80.19:8000/live/imranitel/rashid/833.ts
-#EXTINF:0,Sky Thrill
-http://109.236.80.19:8000/live/imranitel/rashid/167.ts
-#EXTINF:0,Sky Showcase
-http://109.236.80.19:8000/live/imranitel/rashid/161.ts
-#EXTINF:0,Sky Box Office
-http://109.236.80.19:8000/live/imranitel/rashid/1379.ts
-#EXTINF:0,MOVIES 4 MEN
-http://109.236.80.19:8000/live/imranitel/rashid/1339.ts
-#EXTINF:0,===>[UK] SPORTS<===
-http://109.236.80.19:8000/live/imranitel/rashid/8563.ts
-#EXTINF:0,BT EUROPE HD
-http://109.236.80.19:8000/live/imranitel/rashid/5262.ts
-#EXTINF:0,BT SPORTS 1HD
-http://109.236.80.19:8000/live/imranitel/rashid/5264.ts
-#EXTINF:0,BT SPORTS 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/5263.ts
-#EXTINF:0,EURO SPORTS 1HD
-http://109.236.80.19:8000/live/imranitel/rashid/5258.ts
-#EXTINF:0,EURO SPORTS 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/5257.ts
-#EXTINF:0,SKY SPORTS 1HD
-http://109.236.80.19:8000/live/imranitel/rashid/5269.ts
-#EXTINF:0,SKY SPORTS 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/5268.ts
-#EXTINF:0,SKY SPORTS 3HD
-http://109.236.80.19:8000/live/imranitel/rashid/5267.ts
-#EXTINF:0,SKY SPORTS 4HD
-http://109.236.80.19:8000/live/imranitel/rashid/5266.ts
-#EXTINF:0,SKY SPORTS 5HD
-http://109.236.80.19:8000/live/imranitel/rashid/5265.ts
-#EXTINF:0,SKY F1 HD
-http://109.236.80.19:8000/live/imranitel/rashid/5261.ts
-#EXTINF:0,SKY SPORTS MIX HD
-http://109.236.80.19:8000/live/imranitel/rashid/5259.ts
-#EXTINF:0,SKY SPORTS NEWS HD
-http://109.236.80.19:8000/live/imranitel/rashid/5260.ts
-#EXTINF:0,At the Races
-http://109.236.80.19:8000/live/imranitel/rashid/647.ts
-#EXTINF:0,Box Nation
-http://109.236.80.19:8000/live/imranitel/rashid/646.ts
-#EXTINF:0,BT Sports ESPN
-http://109.236.80.19:8000/live/imranitel/rashid/434.ts
-#EXTINF:0,BT Europe HD
-http://109.236.80.19:8000/live/imranitel/rashid/433.ts
-#EXTINF:0,BT Sports 1
-http://109.236.80.19:8000/live/imranitel/rashid/174.ts
-#EXTINF:0,BT Sports 2
-http://109.236.80.19:8000/live/imranitel/rashid/432.ts
-#EXTINF:0,BT SPORTS 1HD
-http://109.236.80.19:8000/live/imranitel/rashid/1228.ts
-#EXTINF:0,BT SPORTS 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/1233.ts
-#EXTINF:0,BT SPORTS 3HD
-http://109.236.80.19:8000/live/imranitel/rashid/783.ts
-#EXTINF:0,Chelsea
-http://109.236.80.19:8000/live/imranitel/rashid/435.ts
-#EXTINF:0,Eurosport
-http://109.236.80.19:8000/live/imranitel/rashid/1062.ts
-#EXTINF:0,EuroSports2
-http://109.236.80.19:8000/live/imranitel/rashid/1368.ts
-#EXTINF:0,Sky Sports 1
-http://109.236.80.19:8000/live/imranitel/rashid/172.ts
-#EXTINF:0,Sky Sports 1HD
-http://109.236.80.19:8000/live/imranitel/rashid/1267.ts
-#EXTINF:0,Sky Sports 2
-http://109.236.80.19:8000/live/imranitel/rashid/171.ts
-#EXTINF:0,Sky Sports 2HD
-http://109.236.80.19:8000/live/imranitel/rashid/1268.ts
-#EXTINF:0,Sky Sports 3
-http://109.236.80.19:8000/live/imranitel/rashid/170.ts
-#EXTINF:0,Sky Sports 3HD
-http://109.236.80.19:8000/live/imranitel/rashid/1269.ts
-#EXTINF:0,Sky Sports 4
-http://109.236.80.19:8000/live/imranitel/rashid/169.ts
-#EXTINF:0,Sky Sports 4HD
-http://109.236.80.19:8000/live/imranitel/rashid/1270.ts
-#EXTINF:0,Sky Sports 5
-http://109.236.80.19:8000/live/imranitel/rashid/168.ts
-#EXTINF:0,Sky Sports 5HD
-http://109.236.80.19:8000/live/imranitel/rashid/1271.ts
-#EXTINF:0,Sky Sports F1
-http://109.236.80.19:8000/live/imranitel/rashid/542.ts
-#EXTINF:0,Sky Sport News HQ
-http://109.236.80.19:8000/live/imranitel/rashid/826.ts
-#EXTINF:0,Setanta Sport Ireland
-http://109.236.80.19:8000/live/imranitel/rashid/1040.ts
-#EXTINF:0,Racing
-http://109.236.80.19:8000/live/imranitel/rashid/648.ts
-#EXTINF:0,Premier Sports HD
-http://109.236.80.19:8000/live/imranitel/rashid/1453.ts
-#EXTINF:0,EIR Sports 1
-http://109.236.80.19:8000/live/imranitel/rashid/462.ts
-#EXTINF:0,LFC TV
-http://109.236.80.19:8000/live/imranitel/rashid/1393.ts
-#EXTINF:0,MUTV FC
-http://109.236.80.19:8000/live/imranitel/rashid/547.ts
-#EXTINF:0,AT THE RACES
-http://109.236.80.19:8000/live/imranitel/rashid/3000.ts
-#EXTINF:0,BT SPORTS 1
-http://109.236.80.19:8000/live/imranitel/rashid/2577.ts
-#EXTINF:0,BT SPORTS 3
-http://109.236.80.19:8000/live/imranitel/rashid/2579.ts
-#EXTINF:0,BT SPORTS ESPN
-http://109.236.80.19:8000/live/imranitel/rashid/2588.ts
-#EXTINF:0,BT SPORTS 2
-http://109.236.80.19:8000/live/imranitel/rashid/2578.ts
-#EXTINF:0,SKY SPORTS NEWS HQ
-http://109.236.80.19:8000/live/imranitel/rashid/2564.ts
-#EXTINF:0,PREMIER SPORTS
-http://109.236.80.19:8000/live/imranitel/rashid/2601.ts
-#EXTINF:0,PREMIER SPORTS HD
-http://109.236.80.19:8000/live/imranitel/rashid/2602.ts
-#EXTINF:0,RACING UK
-http://109.236.80.19:8000/live/imranitel/rashid/2590.ts
+#EXTINF:-1,,3e
+http://217.182.138.85:7000/live/chewie/chewie/3478.ts
+#EXTINF:-1,,5 Star
+http://217.182.138.85:7000/live/chewie/chewie/3479.ts
+#EXTINF:-1,,5 USA
+http://217.182.138.85:7000/live/chewie/chewie/3480.ts
+#EXTINF:-1,,Alibi
+http://217.182.138.85:7000/live/chewie/chewie/3481.ts
+#EXTINF:-1,,Animal Planet
+http://217.182.138.85:7000/live/chewie/chewie/3482.ts
+#EXTINF:-1,,At The Races
+http://217.182.138.85:7000/live/chewie/chewie/3483.ts
+#EXTINF:-1,,Baby TV
+http://217.182.138.85:7000/live/chewie/chewie/3484.ts
+#EXTINF:-1,,BBC 1
+http://217.182.138.85:7000/live/chewie/chewie/3485.ts
+#EXTINF:-1,,BBC 2
+http://217.182.138.85:7000/live/chewie/chewie/3486.ts
+#EXTINF:-1,,BBC 3
+http://217.182.138.85:7000/live/chewie/chewie/3487.ts
+#EXTINF:-1,,BBC 4
+http://217.182.138.85:7000/live/chewie/chewie/3488.ts
+#EXTINF:-1,,BBC Entertainment
+http://217.182.138.85:7000/live/chewie/chewie/3489.ts
+#EXTINF:-1,,BBC World News
+http://217.182.138.85:7000/live/chewie/chewie/3490.ts
+#EXTINF:-1,,Bloomberg
+http://217.182.138.85:7000/live/chewie/chewie/3491.ts
+#EXTINF:-1,,Boomerang
+http://217.182.138.85:7000/live/chewie/chewie/3492.ts
+#EXTINF:-1,,Boxnation
+http://217.182.138.85:7000/live/chewie/chewie/3493.ts
+#EXTINF:-1,,BT Sport 1 HD
+http://217.182.138.85:7000/live/chewie/chewie/3494.ts
+#EXTINF:-1,,BT Sport 2 HD
+http://217.182.138.85:7000/live/chewie/chewie/3495.ts
+#EXTINF:-1,,BT Sport Europe
+http://217.182.138.85:7000/live/chewie/chewie/3498.ts
+#EXTINF:-1,,BT Sport Extra 1
+http://217.182.138.85:7000/live/chewie/chewie/3499.ts
+#EXTINF:-1,,BT Sport Extra 2
+http://217.182.138.85:7000/live/chewie/chewie/3500.ts
+#EXTINF:-1,,BT Sport Extra 3
+http://217.182.138.85:7000/live/chewie/chewie/3501.ts
+#EXTINF:-1,,BT Sport Extra 4
+http://217.182.138.85:7000/live/chewie/chewie/3502.ts
+#EXTINF:-1,,BT Sport Extra 5
+http://217.182.138.85:7000/live/chewie/chewie/3503.ts
+#EXTINF:-1,,BT Sport Extra 6
+http://217.182.138.85:7000/live/chewie/chewie/3504.ts
+#EXTINF:-1,,BT Sports 1
+http://217.182.138.85:7000/live/chewie/chewie/3496.ts
+#EXTINF:-1,,BT Sports 2
+http://217.182.138.85:7000/live/chewie/chewie/3497.ts
+#EXTINF:-1,,Cartoon Network
+http://217.182.138.85:7000/live/chewie/chewie/3506.ts
+#EXTINF:-1,,Cartoonito
+http://217.182.138.85:7000/live/chewie/chewie/3505.ts
+#EXTINF:-1,,Cbeebies
+http://217.182.138.85:7000/live/chewie/chewie/3507.ts
+#EXTINF:-1,,CBS Action
+http://217.182.138.85:7000/live/chewie/chewie/3508.ts
+#EXTINF:-1,,CBS Drama
+http://217.182.138.85:7000/live/chewie/chewie/3509.ts
+#EXTINF:-1,,CBS Reality
+http://217.182.138.85:7000/live/chewie/chewie/3510.ts
+#EXTINF:-1,,Channel 4
+http://217.182.138.85:7000/live/chewie/chewie/3511.ts
+#EXTINF:-1,,Channel 5
+http://217.182.138.85:7000/live/chewie/chewie/3512.ts
+#EXTINF:-1,,Chelsea FC
+http://217.182.138.85:7000/live/chewie/chewie/3513.ts
+#EXTINF:-1,,CNN
+http://217.182.138.85:7000/live/chewie/chewie/3514.ts
+#EXTINF:-1,,Comedy Central
+http://217.182.138.85:7000/live/chewie/chewie/3515.ts
+#EXTINF:-1,,Comedy Central Xtra
+http://217.182.138.85:7000/live/chewie/chewie/3516.ts
+#EXTINF:-1,,Crime and Investigation
+http://217.182.138.85:7000/live/chewie/chewie/3517.ts
+#EXTINF:-1,,Dave
+http://217.182.138.85:7000/live/chewie/chewie/3518.ts
+#EXTINF:-1,,Discovery Channel
+http://217.182.138.85:7000/live/chewie/chewie/3519.ts
+#EXTINF:-1,,Discovery History
+http://217.182.138.85:7000/live/chewie/chewie/3520.ts
+#EXTINF:-1,,Discovery Science
+http://217.182.138.85:7000/live/chewie/chewie/3521.ts
+#EXTINF:-1,,Discovery Shed
+http://217.182.138.85:7000/live/chewie/chewie/3522.ts
+#EXTINF:-1,,Discovery Turbo
+http://217.182.138.85:7000/live/chewie/chewie/3523.ts
+#EXTINF:-1,,Disney Channel
+http://217.182.138.85:7000/live/chewie/chewie/3524.ts
+#EXTINF:-1,,Disney Junior
+http://217.182.138.85:7000/live/chewie/chewie/3525.ts
+#EXTINF:-1,,Disney Movies
+http://217.182.138.85:7000/live/chewie/chewie/3527.ts
+#EXTINF:-1,,Disney XD
+http://217.182.138.85:7000/live/chewie/chewie/3526.ts
+#EXTINF:-1,,Dmax
+http://217.182.138.85:7000/live/chewie/chewie/3528.ts
+#EXTINF:-1,,Drama
+http://217.182.138.85:7000/live/chewie/chewie/3529.ts
+#EXTINF:-1,,E4
+http://217.182.138.85:7000/live/chewie/chewie/3530.ts
+#EXTINF:-1,,Eir Sport 1
+http://217.182.138.85:7000/live/chewie/chewie/3531.ts
+#EXTINF:-1,,Eir Sport 2
+http://217.182.138.85:7000/live/chewie/chewie/3532.ts
+#EXTINF:-1,,ESPN
+http://217.182.138.85:7000/live/chewie/chewie/3533.ts
+#EXTINF:-1,,Eurosport 1
+http://217.182.138.85:7000/live/chewie/chewie/3534.ts
+#EXTINF:-1,,Eurosport 2
+http://217.182.138.85:7000/live/chewie/chewie/3535.ts
+#EXTINF:-1,,Film 4
+http://217.182.138.85:7000/live/chewie/chewie/3536.ts
+#EXTINF:-1,,Five
+http://217.182.138.85:7000/live/chewie/chewie/3537.ts
+#EXTINF:-1,,Flava
+http://217.182.138.85:7000/live/chewie/chewie/3538.ts
+#EXTINF:-1,,Food Network
+http://217.182.138.85:7000/live/chewie/chewie/3542.ts
+#EXTINF:-1,,FOX
+http://217.182.138.85:7000/live/chewie/chewie/3539.ts
+#EXTINF:-1,,FOX Crime
+http://217.182.138.85:7000/live/chewie/chewie/3540.ts
+#EXTINF:-1,,FOX News
+http://217.182.138.85:7000/live/chewie/chewie/3541.ts
+#EXTINF:-1,,Gold
+http://217.182.138.85:7000/live/chewie/chewie/3543.ts
+#EXTINF:-1,,Good Food
+http://217.182.138.85:7000/live/chewie/chewie/3544.ts
+#EXTINF:-1,,History Channel
+http://217.182.138.85:7000/live/chewie/chewie/3545.ts
+#EXTINF:-1,,Home and Health
+http://217.182.138.85:7000/live/chewie/chewie/3546.ts
+#EXTINF:-1,,ITV 1
+http://217.182.138.85:7000/live/chewie/chewie/3547.ts
+#EXTINF:-1,,ITV 2
+http://217.182.138.85:7000/live/chewie/chewie/3548.ts
+#EXTINF:-1,,ITV 3
+http://217.182.138.85:7000/live/chewie/chewie/3549.ts
+#EXTINF:-1,,ITV 4
+http://217.182.138.85:7000/live/chewie/chewie/3550.ts
+#EXTINF:-1,,ITV Be
+http://217.182.138.85:7000/live/chewie/chewie/3551.ts
+#EXTINF:-1,,ITV Encore
+http://217.182.138.85:7000/live/chewie/chewie/3552.ts
+#EXTINF:-1,,Kix
+http://217.182.138.85:7000/live/chewie/chewie/3553.ts
+#EXTINF:-1,,Lifetime
+http://217.182.138.85:7000/live/chewie/chewie/3554.ts
+#EXTINF:-1,,Liverpool FC
+http://217.182.138.85:7000/live/chewie/chewie/3555.ts
+#EXTINF:-1,,Manchester United FC
+http://217.182.138.85:7000/live/chewie/chewie/3556.ts
+#EXTINF:-1,,More 4
+http://217.182.138.85:7000/live/chewie/chewie/3557.ts
+#EXTINF:-1,,Motors TV
+http://217.182.138.85:7000/live/chewie/chewie/3558.ts
+#EXTINF:-1,,Movies 24
+http://217.182.138.85:7000/live/chewie/chewie/3562.ts
+#EXTINF:-1,,Movies 4 Men
+http://217.182.138.85:7000/live/chewie/chewie/3559.ts
+#EXTINF:-1,,MTV Hits
+http://217.182.138.85:7000/live/chewie/chewie/3560.ts
+#EXTINF:-1,,MTV Music
+http://217.182.138.85:7000/live/chewie/chewie/3561.ts
+#EXTINF:-1,,National Geographic
+http://217.182.138.85:7000/live/chewie/chewie/3563.ts
+#EXTINF:-1,,National Geographic Wild
+http://217.182.138.85:7000/live/chewie/chewie/3564.ts
+#EXTINF:-1,,Nick Junior
+http://217.182.138.85:7000/live/chewie/chewie/3566.ts
+#EXTINF:-1,,Nickelodeon
+http://217.182.138.85:7000/live/chewie/chewie/3565.ts
+#EXTINF:-1,,Nicktoons
+http://217.182.138.85:7000/live/chewie/chewie/3567.ts
+#EXTINF:-1,,Pick TV
+http://217.182.138.85:7000/live/chewie/chewie/3568.ts
+#EXTINF:-1,,Premier Sports
+http://217.182.138.85:7000/live/chewie/chewie/3569.ts
+#EXTINF:-1,,Quest
+http://217.182.138.85:7000/live/chewie/chewie/3570.ts
+#EXTINF:-1,,Racing UK
+http://217.182.138.85:7000/live/chewie/chewie/3571.ts
+#EXTINF:-1,,Really
+http://217.182.138.85:7000/live/chewie/chewie/3572.ts
+#EXTINF:-1,,RTE 1
+http://217.182.138.85:7000/live/chewie/chewie/3573.ts
+#EXTINF:-1,,RTE 2
+http://217.182.138.85:7000/live/chewie/chewie/3574.ts
+#EXTINF:-1,,Sky Arts 1
+http://217.182.138.85:7000/live/chewie/chewie/3575.ts
+#EXTINF:-1,,Sky Atlantic
+http://217.182.138.85:7000/live/chewie/chewie/3576.ts
+#EXTINF:-1,,Sky Living UK
+http://217.182.138.85:7000/live/chewie/chewie/3577.ts
+#EXTINF:-1,,Sky Movies Action
+http://217.182.138.85:7000/live/chewie/chewie/3578.ts
+#EXTINF:-1,,Sky Movies Comedy
+http://217.182.138.85:7000/live/chewie/chewie/3579.ts
+#EXTINF:-1,,Sky Movies Drama
+http://217.182.138.85:7000/live/chewie/chewie/3580.ts
+#EXTINF:-1,,Sky Movies Family
+http://217.182.138.85:7000/live/chewie/chewie/3581.ts
+#EXTINF:-1,,Sky Movies Modern Greats
+http://217.182.138.85:7000/live/chewie/chewie/3582.ts
+#EXTINF:-1,,Sky Movies Premiere
+http://217.182.138.85:7000/live/chewie/chewie/3583.ts
+#EXTINF:-1,,Sky Movies Scifi Horror
+http://217.182.138.85:7000/live/chewie/chewie/3584.ts
+#EXTINF:-1,,Sky Movies Select
+http://217.182.138.85:7000/live/chewie/chewie/3585.ts
+#EXTINF:-1,,Sky Movies Showcase
+http://217.182.138.85:7000/live/chewie/chewie/3586.ts
+#EXTINF:-1,,Sky Movies Thriller
+http://217.182.138.85:7000/live/chewie/chewie/3587.ts
+#EXTINF:-1,,SKY News
+http://217.182.138.85:7000/live/chewie/chewie/3588.ts
+#EXTINF:-1,,Sky One
+http://217.182.138.85:7000/live/chewie/chewie/3589.ts
+#EXTINF:-1,,Sky Sports 1
+http://217.182.138.85:7000/live/chewie/chewie/3590.ts
+#EXTINF:-1,,Sky Sports 1 HD
+http://217.182.138.85:7000/live/chewie/chewie/3591.ts
+#EXTINF:-1,,Sky Sports 2
+http://217.182.138.85:7000/live/chewie/chewie/3592.ts
+#EXTINF:-1,,Sky Sports 2 HD
+http://217.182.138.85:7000/live/chewie/chewie/3593.ts
+#EXTINF:-1,,Sky Sports 3
+http://217.182.138.85:7000/live/chewie/chewie/3594.ts
+#EXTINF:-1,,Sky Sports 3 HD
+http://217.182.138.85:7000/live/chewie/chewie/3595.ts
+#EXTINF:-1,,Sky Sports 4
+http://217.182.138.85:7000/live/chewie/chewie/3596.ts
+#EXTINF:-1,,Sky Sports 4 HD
+http://217.182.138.85:7000/live/chewie/chewie/3597.ts
+#EXTINF:-1,,Sky Sports 5
+http://217.182.138.85:7000/live/chewie/chewie/3598.ts
+#EXTINF:-1,,Sky Sports 5 HD
+http://217.182.138.85:7000/live/chewie/chewie/3599.ts
+#EXTINF:-1,,Sky Sports F1
+http://217.182.138.85:7000/live/chewie/chewie/3600.ts
+#EXTINF:-1,,Sky Sports F1 HD
+http://217.182.138.85:7000/live/chewie/chewie/3601.ts
+#EXTINF:-1,,Sky Sports News
+http://217.182.138.85:7000/live/chewie/chewie/3602.ts
+#EXTINF:-1,,Sky Two
+http://217.182.138.85:7000/live/chewie/chewie/3603.ts
+#EXTINF:-1,,Spike
+http://217.182.138.85:7000/live/chewie/chewie/3604.ts
+#EXTINF:-1,,SyFy
+http://217.182.138.85:7000/live/chewie/chewie/3605.ts
+#EXTINF:-1,,TG 4
+http://217.182.138.85:7000/live/chewie/chewie/3606.ts
+#EXTINF:-1,,The Vault
+http://217.182.138.85:7000/live/chewie/chewie/3607.ts
+#EXTINF:-1,,TLC
+http://217.182.138.85:7000/live/chewie/chewie/3608.ts
+#EXTINF:-1,,TMC
+http://217.182.138.85:7000/live/chewie/chewie/3609.ts
+#EXTINF:-1,,Travel Channel
+http://217.182.138.85:7000/live/chewie/chewie/3610.ts
+#EXTINF:-1,,True Entertainment
+http://217.182.138.85:7000/live/chewie/chewie/3611.ts
+#EXTINF:-1,,True Movies 1
+http://217.182.138.85:7000/live/chewie/chewie/3612.ts
+#EXTINF:-1,,True Movies 2
+http://217.182.138.85:7000/live/chewie/chewie/3613.ts
+#EXTINF:-1,,TV3
+http://217.182.138.85:7000/live/chewie/chewie/3614.ts
+#EXTINF:-1,,TV3 Plus 1
+http://217.182.138.85:7000/live/chewie/chewie/3615.ts
+#EXTINF:-1,,Universal
+http://217.182.138.85:7000/live/chewie/chewie/3616.ts
+#EXTINF:-1,,VH1
+http://217.182.138.85:7000/live/chewie/chewie/3617.ts
+#EXTINF:-1,,W
+http://217.182.138.85:7000/live/chewie/chewie/3618.ts
+#EXTINF:-1,,Watch
+http://217.182.138.85:7000/live/chewie/chewie/3619.ts
+#EXTINF:-1,,Yesterday
+http://217.182.138.85:7000/live/chewie/chewie/3620.ts
+#EXTINF:-1,Sky Arts
+http://217.182.138.85:7000/live/chewie/chewie/5329.ts
+#EXTINF:-1,3E Ireland
+http://217.182.138.85:7000/live/chewie/chewie/5266.ts
+#EXTINF:-1,Baby TV
+http://217.182.138.85:7000/live/chewie/chewie/5317.ts
+#EXTINF:-1,BBC 1 HD
+http://217.182.138.85:7000/live/chewie/chewie/5255.ts
+#EXTINF:-1,BBC 4 HD
+http://217.182.138.85:7000/live/chewie/chewie/5260.ts
+#EXTINF:-1,BoomeRang
+http://217.182.138.85:7000/live/chewie/chewie/5315.ts
+#EXTINF:-1,Boomerang 1
+http://217.182.138.85:7000/live/chewie/chewie/5316.ts
+#EXTINF:-1,BT Sport ESPN
+http://217.182.138.85:7000/live/chewie/chewie/5369.ts
+#EXTINF:-1,Cartoon Network
+http://217.182.138.85:7000/live/chewie/chewie/5309.ts
+#EXTINF:-1,CBS Action
+http://217.182.138.85:7000/live/chewie/chewie/5321.ts
+#EXTINF:-1,CBS Drama
+http://217.182.138.85:7000/live/chewie/chewie/5322.ts
+#EXTINF:-1,CBS Reality
+http://217.182.138.85:7000/live/chewie/chewie/5323.ts
+#EXTINF:-1,CHANNEL 5
+http://217.182.138.85:7000/live/chewie/chewie/5262.ts
+#EXTINF:-1,Chelsea TV
+http://217.182.138.85:7000/live/chewie/chewie/5365.ts
+#EXTINF:-1,Comedy Central
+http://217.182.138.85:7000/live/chewie/chewie/5283.ts
+#EXTINF:-1,Discovery Channel
+http://217.182.138.85:7000/live/chewie/chewie/5356.ts
+#EXTINF:-1,Discovery History
+http://217.182.138.85:7000/live/chewie/chewie/5361.ts
+#EXTINF:-1,Disney Junior
+http://217.182.138.85:7000/live/chewie/chewie/5308.ts
+#EXTINF:-1,E!
+http://217.182.138.85:7000/live/chewie/chewie/5267.ts
+#EXTINF:-1,EuroSport 2
+http://217.182.138.85:7000/live/chewie/chewie/5371.ts
+#EXTINF:-1,Film 4 HD
+http://217.182.138.85:7000/live/chewie/chewie/5326.ts
+#EXTINF:-1,Fox sd
+http://217.182.138.85:7000/live/chewie/chewie/5280.ts
+#EXTINF:-1,Gold TV
+http://217.182.138.85:7000/live/chewie/chewie/5305.ts
+#EXTINF:-1,HBO
+http://217.182.138.85:7000/live/chewie/chewie/5304.ts
+#EXTINF:-1,HBO Comedy HD
+http://217.182.138.85:7000/live/chewie/chewie/5303.ts
+#EXTINF:-1,History Channel
+http://217.182.138.85:7000/live/chewie/chewie/5362.ts
+#EXTINF:-1,ITV 1
+http://217.182.138.85:7000/live/chewie/chewie/5269.ts
+#EXTINF:-1,ITV 2 HD
+http://217.182.138.85:7000/live/chewie/chewie/5270.ts
+#EXTINF:-1,ITV 3
+http://217.182.138.85:7000/live/chewie/chewie/5271.ts
+#EXTINF:-1,ITV 4
+http://217.182.138.85:7000/live/chewie/chewie/5272.ts
+#EXTINF:-1,Itv Encore
+http://217.182.138.85:7000/live/chewie/chewie/5268.ts
+#EXTINF:-1,ITVBE
+http://217.182.138.85:7000/live/chewie/chewie/5351.ts
+#EXTINF:-1,More4
+http://217.182.138.85:7000/live/chewie/chewie/5261.ts
+#EXTINF:-1,Movies24
+http://217.182.138.85:7000/live/chewie/chewie/5320.ts
+#EXTINF:-1,Movies4Man
+http://217.182.138.85:7000/live/chewie/chewie/5319.ts
+#EXTINF:-1,Movies4Man1
+http://217.182.138.85:7000/live/chewie/chewie/5318.ts
+#EXTINF:-1,MTV Base
+http://217.182.138.85:7000/live/chewie/chewie/5341.ts
+#EXTINF:-1,MTV Dance
+http://217.182.138.85:7000/live/chewie/chewie/5340.ts
+#EXTINF:-1,MTV Hits
+http://217.182.138.85:7000/live/chewie/chewie/5339.ts
+#EXTINF:-1,MTV Music
+http://217.182.138.85:7000/live/chewie/chewie/5338.ts
+#EXTINF:-1,MTV Rocks
+http://217.182.138.85:7000/live/chewie/chewie/5337.ts
+#EXTINF:-1,Nat Geo
+http://217.182.138.85:7000/live/chewie/chewie/5359.ts
+#EXTINF:-1,Nat Geo Wild
+http://217.182.138.85:7000/live/chewie/chewie/5357.ts
+#EXTINF:-1,National Geographic Channel
+http://217.182.138.85:7000/live/chewie/chewie/5358.ts
+#EXTINF:-1,NIck JR
+http://217.182.138.85:7000/live/chewie/chewie/5310.ts
+#EXTINF:-1,Nick JR 1
+http://217.182.138.85:7000/live/chewie/chewie/5313.ts
+#EXTINF:-1,Nick JR Peppa
+http://217.182.138.85:7000/live/chewie/chewie/5314.ts
+#EXTINF:-1,Nickelodeon
+http://217.182.138.85:7000/live/chewie/chewie/5311.ts
+#EXTINF:-1,NickToons
+http://217.182.138.85:7000/live/chewie/chewie/5312.ts
+#EXTINF:-1,REALLY
+http://217.182.138.85:7000/live/chewie/chewie/5350.ts
+#EXTINF:-1,RTE 3 J.R
+http://217.182.138.85:7000/live/chewie/chewie/5265.ts
+#EXTINF:-1,RTE One
+http://217.182.138.85:7000/live/chewie/chewie/5264.ts
+#EXTINF:-1,RTE Two
+http://217.182.138.85:7000/live/chewie/chewie/5263.ts
+#EXTINF:-1,Setanta spor
+http://217.182.138.85:7000/live/chewie/chewie/5370.ts
+#EXTINF:-1,SKY Atlantic HD
+http://217.182.138.85:7000/live/chewie/chewie/5286.ts
+#EXTINF:-1,Sky Movies  Premiere
+http://217.182.138.85:7000/live/chewie/chewie/5288.ts
+#EXTINF:-1,Sky Movies Action
+http://217.182.138.85:7000/live/chewie/chewie/5292.ts
+#EXTINF:-1,Sky Movies Action & Adventure HD
+http://217.182.138.85:7000/live/chewie/chewie/5289.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://217.182.138.85:7000/live/chewie/chewie/5294.ts
+#EXTINF:-1,Sky Movies Crime &Thriller HD
+http://217.182.138.85:7000/live/chewie/chewie/5297.ts
+#EXTINF:-1,SKY Movies Disney HD
+http://217.182.138.85:7000/live/chewie/chewie/5306.ts
+#EXTINF:-1,Sky Movies Drama & Romance
+http://217.182.138.85:7000/live/chewie/chewie/5295.ts
+#EXTINF:-1,Sky Movies Drama & Romance.
+http://217.182.138.85:7000/live/chewie/chewie/5296.ts
+#EXTINF:-1,Sky Movies Family HD
+http://217.182.138.85:7000/live/chewie/chewie/5293.ts
+#EXTINF:-1,Sky Movies Greats HD HarryPotter
+http://217.182.138.85:7000/live/chewie/chewie/5300.ts
+#EXTINF:-1,Sky Movies Hits Showcase HD
+http://217.182.138.85:7000/live/chewie/chewie/5290.ts
+#EXTINF:-1,SKY Movies Premier HD
+http://217.182.138.85:7000/live/chewie/chewie/5287.ts
+#EXTINF:-1,Sky Movies Sci-fi & Horror HD
+http://217.182.138.85:7000/live/chewie/chewie/5299.ts
+#EXTINF:-1,Sky Movies Select
+http://217.182.138.85:7000/live/chewie/chewie/5301.ts
+#EXTINF:-1,Sky One HD
+http://217.182.138.85:7000/live/chewie/chewie/5284.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://217.182.138.85:7000/live/chewie/chewie/5368.ts
+#EXTINF:-1,Sky Sport News HD
+http://217.182.138.85:7000/live/chewie/chewie/5367.ts
+#EXTINF:-1,Sky Thriller
+http://217.182.138.85:7000/live/chewie/chewie/5298.ts
+#EXTINF:-1,SKY Two HD
+http://217.182.138.85:7000/live/chewie/chewie/5285.ts
+#EXTINF:-1,SkySelect
+http://217.182.138.85:7000/live/chewie/chewie/5302.ts
+#EXTINF:-1,SkyShowcase
+http://217.182.138.85:7000/live/chewie/chewie/5291.ts
+#EXTINF:-1,Sony Max
+http://217.182.138.85:7000/live/chewie/chewie/5336.ts
+#EXTINF:-1,Sony Movie
+http://217.182.138.85:7000/live/chewie/chewie/5335.ts
+#EXTINF:-1,Sony Sab
+http://217.182.138.85:7000/live/chewie/chewie/5334.ts
+#EXTINF:-1,SONY TV
+http://217.182.138.85:7000/live/chewie/chewie/5333.ts
+#EXTINF:-1,Star Gold
+http://217.182.138.85:7000/live/chewie/chewie/5332.ts
+#EXTINF:-1,Star LifeOK (hindi)
+http://217.182.138.85:7000/live/chewie/chewie/5331.ts
+#EXTINF:-1,SYFY
+http://217.182.138.85:7000/live/chewie/chewie/5278.ts
+#EXTINF:-1,TCM (film)
+http://217.182.138.85:7000/live/chewie/chewie/5281.ts
+#EXTINF:-1,TLC-IRELAND
+http://217.182.138.85:7000/live/chewie/chewie/5276.ts
+#EXTINF:-1,True Movies 1
+http://217.182.138.85:7000/live/chewie/chewie/5324.ts
+#EXTINF:-1,True Movies 2
+http://217.182.138.85:7000/live/chewie/chewie/5325.ts
+#EXTINF:-1,TV Nasa
+http://217.182.138.85:7000/live/chewie/chewie/5275.ts
+#EXTINF:-1,Watch
+http://217.182.138.85:7000/live/chewie/chewie/5273.ts
+#EXTINF:-1,3E
+http://217.182.138.85:7000/live/chewie/chewie/5343.ts
+#EXTINF:-1,5 USA
+http://217.182.138.85:7000/live/chewie/chewie/5342.ts
+#EXTINF:-1,Alibi
+http://217.182.138.85:7000/live/chewie/chewie/5330.ts
+#EXTINF:-1,Animal Planet
+http://217.182.138.85:7000/live/chewie/chewie/5363.ts
+#EXTINF:-1,At The Races
+http://217.182.138.85:7000/live/chewie/chewie/5366.ts
+#EXTINF:-1,BBC News
+http://217.182.138.85:7000/live/chewie/chewie/5259.ts
+#EXTINF:-1,BBC Two
+http://217.182.138.85:7000/live/chewie/chewie/5257.ts
+#EXTINF:-1,BBC_one
+http://217.182.138.85:7000/live/chewie/chewie/5256.ts
+#EXTINF:-1,CBBC Three
+http://217.182.138.85:7000/live/chewie/chewie/5258.ts
+#EXTINF:-1,Channel 4
+http://217.182.138.85:7000/live/chewie/chewie/5328.ts
+#EXTINF:-1,Dave
+http://217.182.138.85:7000/live/chewie/chewie/5364.ts
+#EXTINF:-1,Discovery
+http://217.182.138.85:7000/live/chewie/chewie/5355.ts
+#EXTINF:-1,Discovery Home Health
+http://217.182.138.85:7000/live/chewie/chewie/5354.ts
+#EXTINF:-1,Discovery Science
+http://217.182.138.85:7000/live/chewie/chewie/5353.ts
+#EXTINF:-1,Discovery Turbo
+http://217.182.138.85:7000/live/chewie/chewie/5352.ts
+#EXTINF:-1,Disney XD
+http://217.182.138.85:7000/live/chewie/chewie/5307.ts
+#EXTINF:-1,Film 4
+http://217.182.138.85:7000/live/chewie/chewie/5327.ts
+#EXTINF:-1,FOX
+http://217.182.138.85:7000/live/chewie/chewie/5279.ts
+#EXTINF:-1,Good Food
+http://217.182.138.85:7000/live/chewie/chewie/5347.ts
+#EXTINF:-1,Life Time
+http://217.182.138.85:7000/live/chewie/chewie/5282.ts
+#EXTINF:-1,PICK
+http://217.182.138.85:7000/live/chewie/chewie/5349.ts
+#EXTINF:-1,Quest
+http://217.182.138.85:7000/live/chewie/chewie/5348.ts
+#EXTINF:-1,Sky News
+http://217.182.138.85:7000/live/chewie/chewie/5346.ts
+#EXTINF:-1,TLC
+http://217.182.138.85:7000/live/chewie/chewie/5345.ts
+#EXTINF:-1,Travel
+http://217.182.138.85:7000/live/chewie/chewie/5344.ts
