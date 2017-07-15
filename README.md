@@ -1,7 +1,5 @@
-# IPTV
+# AutoIPTV
 
-#### United Kingdom
-https://raw.githubusercontent.com/Rampaigh/IPTV/master/Country/UK.m3u
+## The best dynamic IPTV playlist out there!
 
-#### United States of America
-https://raw.githubusercontent.com/Rampaigh/IPTV/master/Country/USA.m3u
+> http://autoiptv.co.za/playlist.php
